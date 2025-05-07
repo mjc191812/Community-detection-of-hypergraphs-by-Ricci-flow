@@ -1,0 +1,12 @@
+Louvain Modularity: 0.26615443274222195
+Louvain NMI: 0.15412338402988893
+Girvan-Newman Modularity: -7.417946386042679e-07
+Girvan-Newman NMI: 0.01847969086432836
+LPA Modularity: 0.0
+LPA NMI: 0.0
+Infomap Modularity: 0.0
+Infomap NMI: 0.0
+Walktrap Modularity: 0.23589885481743691
+Walktrap NMI: 0.23491839654348193
+our_algorithm_Modularity: 0.5
+our_algorithm_NMI: 0.5972064622201363
